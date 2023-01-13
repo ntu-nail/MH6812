@@ -303,7 +303,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 
 ## Week 9: Seq2Seq Variants and Transformer
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1vuA4Pi2_VMk083mg0X0AeokLNkQlcdXi/view?usp=share_link)
 
 ### Lecture Content
 
