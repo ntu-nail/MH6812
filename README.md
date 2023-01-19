@@ -326,3 +326,38 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
+
+## Week 10: Contextual embeddings and self-supervised learning
+
+[Lecture Slide]()
+
+### Lecture Content
+
+- Why semi-supervsied?
+- Semisupervised learning dimensions
+- Pre-training and fine-tuning methods
+
+  - CoVe
+  - TagLM
+  - ELMo
+  - GPT
+  - ULMfit
+  - BERT
+  - BART
+- Evaluation benchmarks
+
+  - GLUE
+  - SQuAD
+  - NER
+  - SuperGLUE
+  - XNLI
+
+[Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
+
+### Suggested Readings
+
+- [Cove Paper](https://arxiv.org/pdf/1708.00107.pdf)
+- [ULMFit paper](https://arxiv.org/abs/1801.06146)
+- [BERT Paper](https://arxiv.org/abs/1810.04805)
+- [ELMo paper](https://arxiv.org/abs/1802.05365)
+- [BART paper](https://arxiv.org/abs/1910.13461)
