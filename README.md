@@ -329,7 +329,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 
 ## Week 10: Contextual embeddings and self-supervised learning
 
-[Lecture Slide]()
+[Lecture Slide](https://drive.google.com/file/d/1M-aLfVV_9RRWio2b4mGBBwI07xfpPc7l/view?usp=share_link)
 
 ### Lecture Content
 
