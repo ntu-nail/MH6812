@@ -361,3 +361,32 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 - [BERT Paper](https://arxiv.org/abs/1810.04805)
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
+
+## Week 11: Contextual embeddings (ii)
+
+[Lecture Slide]()
+
+### Lecture Content
+
+- Why semi-supervsied?
+- Semisupervised learning dimensions
+- Pre-training and fine-tuning methods
+  - XLNet
+  - mBERT
+  - XLM
+  - mBART
+  - T5
+  - mT5
+- Evaluation benchmarks
+  - GLUE
+  - SQuAD
+  - NER
+  - SuperGLUE
+  - XNLI
+
+### Suggested Readings
+
+- [XLM paper](https://arxiv.org/abs/1901.07291)
+- [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
+- [XLNet paper](https://arxiv.org/abs/1906.08237)
+- [mBART paper](https://arxiv.org/abs/2001.08210)
