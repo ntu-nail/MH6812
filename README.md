@@ -362,27 +362,21 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-## Week 11: Contextual embeddings (ii)
+## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-[Lecture Slide]()
+Assignment 2 is out [here](). **Deadline: 17 Feb 2023, 11:59pm**.
+
+[Lecture Slide](https://drive.google.com/file/d/1oqCpMqLPhscjz_uf-F_xjEUHU8SOv96l/view?usp=share_link)
 
 ### Lecture Content
 
-- Why semi-supervsied?
-- Semisupervised learning dimensions
-- Pre-training and fine-tuning methods
-  - XLNet
-  - mBERT
-  - XLM
-  - mBART
-  - T5
-  - mT5
-- Evaluation benchmarks
-  - GLUE
-  - SQuAD
-  - NER
-  - SuperGLUE
-  - XNLI
+- Large Pretrained Language Models
+- Examples of Large Pretrained Language Models
+- Multilingual NLP
+  - Why we need Multilingual NLP?
+  - Low-resource NLP
+  - Cross-lingual models
+  - Multilingual models
 
 ### Suggested Readings
 
