@@ -150,15 +150,15 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Linear Regressionn](https://colab.research.google.com/drive/12QpBf7x_Jt6-zypN4OrUFFHXz1u6CmYe?usp=sharing)
 - [Logistic Regression](https://colab.research.google.com/drive/1nTrYW5dUu6WO9cx7SGEvP9oX7qRbsGJk?usp=sharing)
 - [Numpy notebook](https://colab.research.google.com/drive/1IAonxZnZjJb0_xUVWHt5atIxaI5GTJQ2) [Pytorch notebook](https://colab.research.google.com/drive/1YzZrMAmJ3hjvJfNIdGxae9kxGABG6yaT)
-- Backpropagation
-- Dropout
-- Batch normalization
-- Initialization
-- Gradient clipping
+  - Backpropagation
+  - Dropout
+  - Batch normalization
+  - Initialization
+  - Gradient clipping
 
-## Week 4: Word Vectors (Introduction)
+## Week 4: Word Vectors 
 
-[Lecture Slide](https://drive.google.com/file/d/1E8MnENtMrFTTf7Ht4UnA21bIZwTFUclD/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/19Z2hdu0AFDvFLyA4qFv8koGzQ7Yct7NZ/view?usp=share_link)
 
 [Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link)
 
