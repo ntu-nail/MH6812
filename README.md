@@ -386,3 +386,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 - [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
+
+## Week 12: Introduction to Graph Neural Networks (Invited talk by Vijay Prakash Dwivedi)
+
+[Lecture Slide](https://drive.google.com/file/d/17bVbpGXGumiw-h24A4pNoZKaFNlXPCHf/view?usp=share_link)
