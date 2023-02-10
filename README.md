@@ -390,3 +390,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 ## Week 12: Introduction to Graph Neural Networks (Invited talk by Vijay Prakash Dwivedi)
 
 [Lecture Slide](https://drive.google.com/file/d/17bVbpGXGumiw-h24A4pNoZKaFNlXPCHf/view?usp=share_link)
+
+## Week 13: Bias, Robustness, ChatGPT & Recap
+
+[Lecture Slide](https://drive.google.com/file/d/1JYaymTGMand2vwpwR8ok2pz4SUXsAP1C/view?usp=share_link)
