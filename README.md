@@ -394,3 +394,5 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 ## Week 13: Bias, Robustness, ChatGPT & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1JYaymTGMand2vwpwR8ok2pz4SUXsAP1C/view?usp=share_link)
+
+[Final project report instruction](https://drive.google.com/file/d/1L_lNPIK5e1KNNRRK6umEJV92DysF54m3/view?usp=share_link)
