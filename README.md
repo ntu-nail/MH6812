@@ -15,41 +15,41 @@ There are a number of core NLP tasks and machine learning models behind NLP appl
 
 # Intended Learning Outcomes
 
-In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement, and possibly to invent their own deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
+In this course, students will learn state-of-the-art deep learning methods for NLP. Through lectures and practical assignments, students will learn the necessary tricks for making their models work on practical problems. They will learn to implement and possibly invent their own deep learning models using available deep learning libraries like [Pytorch](https://pytorch.org/).
 
 **Our Approach**
 
-- Thorough and Detailed: How to write from scratch, debug and train deep neural models
+- Thorough and Detailed: How to write from scratch, debug, and train deep neural models
 
-- State of the art: Most lecture materials are new from research world in the past 1-5 years.
+- State of the art: Most lecture materials are new from the research world in the past 1-5 years.
 
 - Practical: Focus on practical techniques for training the models, and on GPUs.
 
-- Fun: Cover exciting new advancements in NLP (e.g., Transformer, BERT).
+- Fun: Cover exciting new advancements in NLP (e.g., Transformer, ChatGPT).
 
 # Assessment Approach
 
 **Weekly Workload**
 
 - Lecture and/or tutorial and/or practical problems implemented in PyTorch.
-- There will be NO office hour.
+- There will be NO office hours.
 - There will be ***10%*** marks for class participation.
 
 **Assignments (individually graded)**
 
-- There will be two (2) assignments contributing to ***2 * 20% = 40%*** of the total assessment.
+- There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
 - Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
-- There will be a final project contributing to the remaining 50% of the total course-work assessment.
-  - ***1–4*** people per group
-  - Project proposal: ***5%***, presentation: ***10%***, report: ***35%***
-- The project will be a group or individual work depending on the student’s preference. Students will be graded individually. The final project presentation will ensure the student’s understanding of the project
+- There will be a final project contributing to the remaining 40% of the total coursework assessment.
+  - ***3–5*** people per group
+  - Presentation: ***15%***, report: ***25%***
+- The project will be group work but the students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
 # Course Prerequisites
 
-- Proficiency in Python (using numpy and PyTorch). There is a lecture for those who are not familiar with Python.
+- Proficiency in Python (using Numpy and PyTorch). 
 - Linear Algebra, basic Probability and Statistics
 - Machine Learning basics
 
@@ -73,18 +73,13 @@ In this course, students will learn state-of-the-art deep learning methods for N
 <p align="center" width="100%">Nguyen Tran Cong Duy</p>
 <p align="center" width="100%">NGUYENTR003@e.ntu.edu.sg</p>
 
-<p align="center" width="100%">
-    <img width="20%" src="/assets/images/pp.png"> 
-</p>
 
-<p align="center" width="100%"><a href="https://vijaydwivedi.com.np/">Vijay Prakash Dwivedi</a></p>
-<p align="center" width="100%">VIJAYPRA001@e.ntu.edu.sg</p>
 
 # Schedule & Course Content
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1PecYFKzOAtV5DfcC1DowMYkuh6HVgmHt/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1v9VREFng3pQzBbeSmi4ii8sHeBymBTXe/view?usp=sharing)
 
 ### Lecture Content
 
@@ -102,14 +97,15 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - Programming in Python
 
   - Jupiter Notebook and [google colab](https://colab.research.google.com/drive/16pBJQePbqkz3QFV54L4NIkOn1kwpuRrj)
-  - [Introduction to python](https://colab.research.google.com/drive/1bQG32CFoMZ-jBk02uaFon60tER3yFx4c)
+  - [Introduction to Python](https://colab.research.google.com/drive/1bQG32CFoMZ-jBk02uaFon60tER3yFx4c)
   - Deep Learning Frameworks
   - Why Pytorch?
   - [Deep learning with PyTorch](https://drive.google.com/file/d/1c33y8bkdr7SJ_I8-wmqTAhld-y7KcspA/view?usp=sharing)
 - [Supplementary]
-  - Numerical programming with numpy/scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
+  - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
@@ -192,7 +188,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1_kqZuimxJbUMVKcAeDpkc0WE0FhQTxDf/view?usp=share_link)
-<!-- [Tutorial 2](https://drive.google.com/file/d/14CLWxOF14YmJepCurFtraymE1WDvZ7xU/view?usp=sharing) -->
 
 ### Lecture Content
 
@@ -217,7 +212,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1LYFH79pH8y0tLjat2b1YX4NukH9NFjLU/view?usp=share_link)
-<!-- [Tutorial 3](https://drive.google.com/file/d/1YIZn3SzcRdVtagCp9D1RhsgCs0H83FNv/view?usp=sharing) -->
 
 ### Lecture Content
 
@@ -255,7 +249,6 @@ In this course, students will learn state-of-the-art deep learning methods for N
 [Lecture Slide](https://drive.google.com/file/d/1w0O323vK9YzKxJSMMWHej-EA15RdAfOc/view?usp=share_link)
 
 Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH_U2lkcRogrpN/view?usp=share_link). **Deadline: 20 Jan 2023**.
-<!-- [Tutorial]() -->
 
 ### Lecture Content
 
@@ -291,11 +284,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1wnEMADCwZNrDTKHJ7kyH
 - Byte-pair encoding
 - Hybrid models
 
-<!--
-### Practical exercise with Pytorch
 
-- [Neural machine translation tutorial in pytorch](https://colab.research.google.com/drive/1cYyBxmdjFjKls0CEsPc8WIHfxPDy4eSq)
--->
 
 ### Suggested Readings
 
@@ -396,3 +385,4 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 [Lecture Slide](https://drive.google.com/file/d/1JYaymTGMand2vwpwR8ok2pz4SUXsAP1C/view?usp=share_link)
 
 [Final project report instruction](https://drive.google.com/file/d/1L_lNPIK5e1KNNRRK6umEJV92DysF54m3/view?usp=share_link)
+-->
