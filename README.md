@@ -154,7 +154,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Initialization
   - Gradient clipping
 
-<!--
+
 ## Week 4: Word Vectors 
 
 [Lecture Slide](https://drive.google.com/file/d/19Z2hdu0AFDvFLyA4qFv8koGzQ7Yct7NZ/view?usp=share_link)
@@ -188,6 +188,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Linguistic Regularities in Sparse and Explicit Word Representations.](https://levyomer.files.wordpress.com/2014/04/linguistic-regularities-in-sparse-and-explicit-word-representations-conll-2014.pdf)
 - [Neural Word Embeddings as Implicit Matrix Factorization.](https://arxiv.org/abs/1702.02098)
 
+<!--
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1_kqZuimxJbUMVKcAeDpkc0WE0FhQTxDf/view?usp=share_link)
