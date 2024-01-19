@@ -298,10 +298,10 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
 
-<!--
+
 ## Week 9: Seq2Seq Variants and Transformer
 
-[Lecture Slide](https://drive.google.com/file/d/1vuA4Pi2_VMk083mg0X0AeokLNkQlcdXi/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/15BUJrzwl9UdCioliWbS18A5IW-6iN68X/view?usp=sharing)
 
 ### Lecture Content
 
@@ -325,6 +325,8 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
 - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
+
+<!--
 ## Week 10: Contextual embeddings and self-supervised learning
 
 [Lecture Slide](https://drive.google.com/file/d/1M-aLfVV_9RRWio2b4mGBBwI07xfpPc7l/view?usp=share_link)
