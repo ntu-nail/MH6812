@@ -326,10 +326,10 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
 
-<!--
+
 ## Week 10: Contextual embeddings and self-supervised learning
 
-[Lecture Slide](https://drive.google.com/file/d/1M-aLfVV_9RRWio2b4mGBBwI07xfpPc7l/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1oWGen2UA0e1ZArSzBgXaEiUA_utVce7N/view?usp=sharing)
 
 ### Lecture Content
 
@@ -352,7 +352,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
   - SuperGLUE
   - XNLI
 
-[Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
+
 
 ### Suggested Readings
 
@@ -362,6 +362,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
+<!--
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
 Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYoYP6-zic0EItV/view?usp=share_link). **Deadline: 17 Feb 2023, 11:59pm**.
@@ -384,6 +385,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 - [Transformer XL paper](https://arxiv.org/pdf/1901.02860.pdf)
 - [XLNet paper](https://arxiv.org/abs/1906.08237)
 - [mBART paper](https://arxiv.org/abs/2001.08210)
+- [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
 ## Week 12: Introduction to Graph Neural Networks (Invited talk by Vijay Prakash Dwivedi)
 
