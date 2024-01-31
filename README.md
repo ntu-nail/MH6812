@@ -362,19 +362,19 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1DsqqTCr2b6dPXgpFS721
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYoYP6-zic0EItV/view?usp=share_link). **Deadline: 17 Feb 2023, 11:59pm**.
+Assignment 2 is out [here](https://drive.google.com/file/d/1U2vGIWz4FdbWLihVfe-g_vJWXQOTOvk5/view?usp=sharing). **Deadline: 21 Feb 2024, 11:59 pm**.
 
-[Lecture Slide](https://drive.google.com/file/d/1oqCpMqLPhscjz_uf-F_xjEUHU8SOv96l/view?usp=share_link)
+[Lecture Slide]()
 
 ### Lecture Content
 
 - Large Pretrained Language Models
 - Examples of Large Pretrained Language Models
 - Multilingual NLP
-  - Why we need Multilingual NLP?
+  - Why do we need Multilingual NLP?
   - Low-resource NLP
   - Cross-lingual models
   - Multilingual models
@@ -387,6 +387,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/17WwZM_MlLFt51hP8DbYo
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 - [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
+<!--
 ## Week 12: Introduction to Graph Neural Networks (Invited talk by Vijay Prakash Dwivedi)
 
 [Lecture Slide](https://drive.google.com/file/d/17bVbpGXGumiw-h24A4pNoZKaFNlXPCHf/view?usp=share_link)
