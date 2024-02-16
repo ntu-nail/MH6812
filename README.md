@@ -387,14 +387,10 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1U2vGIWz4FdbWLihVfe-g
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 - [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
-<!--
-## Week 12: Introduction to Graph Neural Networks (Invited talk by Vijay Prakash Dwivedi)
 
-[Lecture Slide](https://drive.google.com/file/d/17bVbpGXGumiw-h24A4pNoZKaFNlXPCHf/view?usp=share_link)
+## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
-## Week 13: Bias, Robustness, ChatGPT & Recap
+[Lecture Slide](https://drive.google.com/file/d/1XinErMIg1r0AHtp4dtUYRpvDo1z5Er8R/view?usp=sharing)
 
-[Lecture Slide](https://drive.google.com/file/d/1JYaymTGMand2vwpwR8ok2pz4SUXsAP1C/view?usp=share_link)
+<!--[Final project report instruction](https://drive.google.com/file/d/1L_lNPIK5e1KNNRRK6umEJV92DysF54m3/view?usp=share_link)-->
 
-[Final project report instruction](https://drive.google.com/file/d/1L_lNPIK5e1KNNRRK6umEJV92DysF54m3/view?usp=share_link)
--->
