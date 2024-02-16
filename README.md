@@ -392,5 +392,5 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1U2vGIWz4FdbWLihVfe-g
 
 [Lecture Slide](https://drive.google.com/file/d/1XinErMIg1r0AHtp4dtUYRpvDo1z5Er8R/view?usp=sharing)
 
-<!--[Final project report instruction](https://drive.google.com/file/d/1L_lNPIK5e1KNNRRK6umEJV92DysF54m3/view?usp=share_link)-->
+[Final project report instruction](https://drive.google.com/file/d/1m0oS30taBvy2QL3-lFaJGRKKxVQ6OPtx/view?usp=sharing)
 
