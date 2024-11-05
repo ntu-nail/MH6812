@@ -4,7 +4,7 @@
 
 Natural language processing (NLP) is one of the most important fields in artificial intelligence (AI). It has become very crucial in the information age because most of the information is in the form of unstructured text. NLP technologies are applied everywhere as people communicate mostly in language: language translation, web search, customer support, emails, forums, advertisement, radiology reports, to name a few.
 
-There are a number of core NLP tasks and machine learning models behind NLP applications. Deep learning, a sub-field of machine learning, has recently brought a paradigm shift from traditional task-specific feature engineering to end-to-end systems and has obtained high performance across many different NLP tasks and downstream applications. Tech companies like Google, Baidu, Alibaba, Apple, Amazon, Facebook, Tencent, and Microsoft are now actively working on deep learning methods to improve their products. For example, Google recently replaced its traditional statistical machine translation and speech-recognition systems with systems based on deep learning methods.
+There are several core NLP tasks and machine learning models behind NLP applications. Deep learning, a sub-field of machine learning, has recently brought a paradigm shift from traditional task-specific feature engineering to end-to-end systems and has obtained high performance across many different NLP tasks and downstream applications. Tech companies like Google, Baidu, Alibaba, Apple, Amazon, Facebook, Tencent, and Microsoft are now actively working on deep learning methods to improve their products. For example, Google recently replaced its traditional statistical machine translation and speech-recognition systems with systems based on deep learning methods.
 
 **Optional Textbooks**
 
@@ -38,13 +38,13 @@ In this course, students will learn state-of-the-art deep learning methods for N
 **Assignments (individually graded)**
 
 - There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
-- Students will be graded individually on the assignments. They will be allowed to discuss with each other on the homework assignments, but they are required to submit individual write-ups and coding exercises.
+- Students will be graded individually on the assignments. They will be allowed to discuss the homework assignments with each other, but they are required to submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
 - There will be a final project contributing to the remaining 40% of the total coursework assessment.
   - ***3–5*** people per group
-  - Presentation: ***15%***, report: ***25%***
+  - Presentation: ***15%***, report: **25%***
 - The project will be group work but the students will be graded individually. The final project presentation will ensure the student’s understanding of the project
 
 # Course Prerequisites
@@ -106,7 +106,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
@@ -159,7 +159,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1vBhYQ3ZDGqfu8RxErJuh18RALSXpiSO0/view?usp=sharing)
 
-<!--[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link)-->
+[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link)
 
 ### Lecture Content
 
@@ -393,4 +393,4 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1U2vGIWz4FdbWLihVfe-g
 [Lecture Slide](https://drive.google.com/file/d/1XinErMIg1r0AHtp4dtUYRpvDo1z5Er8R/view?usp=sharing)
 
 [Final project report instruction](https://drive.google.com/file/d/1m0oS30taBvy2QL3-lFaJGRKKxVQ6OPtx/view?usp=sharing)
-
+-->
