@@ -106,10 +106,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-<!--
+
 ## Week 2: Machine Learning Basics
 
-[Lecture Slide](https://drive.google.com/file/d/15Ks4fDmDefmwDoIcL3npleY9hWPlsvdY/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/15bJ9Q0bFGO-0lKzmFXJEVYRbwUsgKrz_/view?usp=sharing)
 
 ### Lecture Content
 
@@ -129,7 +129,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Supplementary]
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 3: Neural Networks & Optimization Basics
 
 [Lecture Slide](https://drive.google.com/file/d/18E-zKbUTW0GygYPNzfwmR-TtqMX8ehnI/view?usp=share_link)
