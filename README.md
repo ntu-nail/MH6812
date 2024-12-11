@@ -214,10 +214,10 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-<!--
+
 ## Week 6: Recurrent Neural Nets
 
-[Lecture Slide](https://drive.google.com/file/d/1LYFH79pH8y0tLjat2b1YX4NukH9NFjLU/view?usp=share_link)
+[Lecture Slide](https://drive.google.com/file/d/1HgbnnXIuYO8lrEAglaXt8Dnuny4A7S1L/view?usp=sharing)
 
 ### Lecture Content
 
@@ -250,6 +250,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 - [Adaptive Input representation paper](https://openreview.net/pdf?id=ByxZX20qFQ)
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
+
+<!--
 ## Week 7: Machine translation and Seq2Seg Models
 
 [Lecture Slide](https://drive.google.com/file/d/1w0O323vK9YzKxJSMMWHej-EA15RdAfOc/view?usp=share_link)
