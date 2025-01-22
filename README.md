@@ -330,8 +330,8 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1B53KIff5iIJQD_olKC19
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
 
-<!--
-## Week 10: Contextual embeddings and self-supervised learning
+
+## Week 10: Self-supervised Learning & Pretrained Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1oWGen2UA0e1ZArSzBgXaEiUA_utVce7N/view?usp=sharing)
 
@@ -365,7 +365,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1B53KIff5iIJQD_olKC19
 - [BERT Paper](https://arxiv.org/abs/1810.04805)
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
-
+<!--
 
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
