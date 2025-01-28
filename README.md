@@ -365,7 +365,7 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1B53KIff5iIJQD_olKC19
 - [BERT Paper](https://arxiv.org/abs/1810.04805)
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
-<!--
+
 
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
@@ -391,7 +391,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 - [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
-
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1XinErMIg1r0AHtp4dtUYRpvDo1z5Er8R/view?usp=sharing)
