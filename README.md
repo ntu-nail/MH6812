@@ -369,9 +369,9 @@ Assignment 1 is out [here](https://drive.google.com/file/d/1B53KIff5iIJQD_olKC19
 
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-Assignment 2 is out [here](https://drive.google.com/file/d/1U2vGIWz4FdbWLihVfe-g_vJWXQOTOvk5/view?usp=sharing). **Deadline: 21 Feb 2024, 11:59 pm**.
+Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoMIJADsjvzJE9G/view?usp=sharing). **Deadline: 21 Feb 2025, 11:59 pm**.
 
-[Lecture Slide](https://drive.google.com/file/d/1bMFqf-kWiFin5KWEk4ToOP8uNQ9eQgns/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/11r6WZxsK6ufjt8wrcAbcAw1OOz8HaWmm/view?usp=sharing)
 
 ### Lecture Content
 
