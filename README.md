@@ -373,6 +373,8 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 
 [Lecture Slide](https://drive.google.com/file/d/11r6WZxsK6ufjt8wrcAbcAw1OOz8HaWmm/view?usp=sharing)
 
+[Lecture Recording](https://drive.google.com/file/d/1e62jcLlCTcW8QmT9NLDzTyfKqWZVpmiW/view?usp=drive_link)
+
 ### Lecture Content
 
 - Large Pretrained Language Models
