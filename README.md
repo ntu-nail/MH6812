@@ -393,10 +393,10 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 - [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
-<!--
+
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
-[Lecture Slide](https://drive.google.com/file/d/1XinErMIg1r0AHtp4dtUYRpvDo1z5Er8R/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1m5E4eEfpkqyRnc-bHjafQOntNARyI_Nm/view?usp=sharing)
 
-[Final project report instruction](https://drive.google.com/file/d/1m0oS30taBvy2QL3-lFaJGRKKxVQ6OPtx/view?usp=sharing)
--->
+[Final project report instruction](https://drive.google.com/file/d/1-viZjoFrZ1O2ZafpkxW6HY_29DWyMn4d/view?usp=sharing)
+
