@@ -79,7 +79,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 ## Week 1: Introduction
 
-[Lecture Slide](https://drive.google.com/file/d/1wr0EuzvJeK9F36_sp6d2GqIe_8BHFx4u/view?usp=sharing)
+[Lecture Slide](https://drive.google.com/file/d/1gnUflk3prXb66L5dzj7Cx6JZFtO2oi9n/view?usp=sharing)
 
 ### Lecture Content
 
