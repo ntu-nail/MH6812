@@ -159,8 +159,8 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 [Lecture Slide](https://drive.google.com/file/d/1mNeA6aVCJF7K_UIc46ZgFaD7DQ2Vw96H/view?usp=sharing)
 
-<!--
-[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) -->
+
+[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) 
 
 ### Lecture Content
 
@@ -399,4 +399,5 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 [Lecture Slide](https://drive.google.com/file/d/1m5E4eEfpkqyRnc-bHjafQOntNARyI_Nm/view?usp=sharing)
 
 [Final project report instruction](https://drive.google.com/file/d/1-viZjoFrZ1O2ZafpkxW6HY_29DWyMn4d/view?usp=sharing)
+
 -->
