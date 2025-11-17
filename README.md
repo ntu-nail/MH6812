@@ -106,7 +106,7 @@ In this course, students will learn state-of-the-art deep learning methods for N
   - Numerical programming with Numpy/Scipy - [Numpy intro](https://drive.google.com/file/d/1cUzRzQGURrCKes8XynvTTA4Zvl_gUJdc/view?usp=sharing)
   - Numerical programming with Pytorch - [Pytorch intro](https://drive.google.com/file/d/18cgPOj2QKQN0WR9_vXoz6BoravvS9mTm/view?usp=sharing)
 
-
+<!--
 ## Week 2: Machine Learning Basics
 
 [Lecture Slide](https://drive.google.com/file/d/15bJ9Q0bFGO-0lKzmFXJEVYRbwUsgKrz_/view?usp=sharing)
@@ -399,4 +399,4 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 [Lecture Slide](https://drive.google.com/file/d/1m5E4eEfpkqyRnc-bHjafQOntNARyI_Nm/view?usp=sharing)
 
 [Final project report instruction](https://drive.google.com/file/d/1-viZjoFrZ1O2ZafpkxW6HY_29DWyMn4d/view?usp=sharing)
-
+-->
