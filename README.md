@@ -33,19 +33,18 @@ In this course, students will learn state-of-the-art deep learning methods for N
 
 - Lecture and/or tutorial and/or practical problems implemented in PyTorch.
 - There will be NO office hours.
-- There will be ***10%*** marks for class participation.
 
 **Assignments (individually graded)**
 
 - There will be two (2) assignments contributing to ***2 * 25% = 50%*** of the total assessment.
-- Students will be graded individually on the assignments. They will be allowed to discuss the homework assignments with each other, but they are required to submit individual write-ups and coding exercises.
+- Students will be graded individually on the assignments. They may discuss homework assignments with each other, but they must submit individual write-ups and coding exercises.
 
 **Final Project (Group work but individually graded)**
 
-- There will be a final project contributing to the remaining 40% of the total coursework assessment.
-  - ***3–5*** people per group
-  - Presentation: ***15%***, report: **25%***
-- The project will be group work but the students will be graded individually. The final project presentation will ensure the student’s understanding of the project
+- There will be a final project contributing to the remaining 50% of the total coursework assessment.
+  - ***3–6*** students per group
+  - Presentation: ***20%***, report: **30%***
+- The project will be group work, but the students will be graded individually. The final project presentation will ensure the student’s understanding of the project.
 
 # Course Prerequisites
 
