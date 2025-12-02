@@ -168,8 +168,6 @@ Passcode: 297938
 [Lecture Slide](https://drive.google.com/file/d/1mNeA6aVCJF7K_UIc46ZgFaD7DQ2Vw96H/view?usp=sharing)
 
 
-[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) 
-
 ### Lecture Content
 
 - Word meaning
@@ -201,6 +199,9 @@ Passcode: 297938
 ## Week 5: Window-based Approach and Convolutional Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1_J7Qj5xr32aRGYEd3gTaIlSAjsv2QhGT/view?usp=sharing)
+
+[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) 
+
 
 ### Lecture Content
 
