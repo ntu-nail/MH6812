@@ -200,6 +200,7 @@ Passcode: 297938
 
 [Lecture Slide](https://drive.google.com/file/d/1_J7Qj5xr32aRGYEd3gTaIlSAjsv2QhGT/view?usp=sharing)
 
+[Final Project Topic Instruction](https://drive.google.com/file/d/13N41RMbX0ViWI5txyNnTRBC-uOqxPohw/view?usp=sharing) 
 
 
 ### Lecture Content
@@ -228,7 +229,6 @@ Passcode: 297938
 
 [Lecture Slide](https://drive.google.com/file/d/1HgbnnXIuYO8lrEAglaXt8Dnuny4A7S1L/view?usp=sharing)
 
-[Project Proposal Instruction](https://drive.google.com/file/d/1CnSceUOXsIk9y5XfWLSwqCb_zD2Tp2c3/view?usp=share_link) 
 
 
 ### Lecture Content
