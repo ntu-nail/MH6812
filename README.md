@@ -223,16 +223,12 @@ Passcode: 297938
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882)
 - [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/abs/1702.02098)
 
-<!--
 
 ## Week 6: Recurrent Neural Nets
 
 [Lecture Slide](https://drive.google.com/file/d/1HgbnnXIuYO8lrEAglaXt8Dnuny4A7S1L/view?usp=sharing)
 
-
-
 ### Lecture Content
-
 
 - Language modeling with RNNs
 - Backpropagation through time
@@ -263,7 +259,7 @@ Passcode: 297938
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
 
-
+<!--
 ## Week 7: Machine translation and Seq2Seg Models
 
 [Lecture Slide](https://drive.google.com/file/d/1BdDaukQIAOPA9DT7cmSV0CUdoSSc9ngk/view?usp=sharing)
