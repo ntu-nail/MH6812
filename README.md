@@ -228,6 +228,8 @@ Passcode: 297938
 
 [Lecture Slide](https://drive.google.com/file/d/1HgbnnXIuYO8lrEAglaXt8Dnuny4A7S1L/view?usp=sharing)
 
+Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6bnGbzf0O51OJl4BC/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 12 Jan 2026**.
+
 ### Lecture Content
 
 - Language modeling with RNNs
@@ -264,7 +266,7 @@ Passcode: 297938
 
 [Lecture Slide](https://drive.google.com/file/d/1BdDaukQIAOPA9DT7cmSV0CUdoSSc9ngk/view?usp=sharing)
 
-Assignment 1 is out [here](https://drive.google.com/file/d/1B53KIff5iIJQD_olKC19FCxkSxemHWIO/view?usp=sharing). **Deadline: 17 Jan 2025**.
+
 
 
 ### Lecture Content
