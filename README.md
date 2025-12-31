@@ -261,12 +261,10 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [KNN-LM paper](https://openreview.net/forum?id=HklBjCEKvH)
 
 
-<!--
+
 ## Week 7: Machine translation and Seq2Seg Models
 
-[Lecture Slide](https://drive.google.com/file/d/1BdDaukQIAOPA9DT7cmSV0CUdoSSc9ngk/view?usp=sharing)
-
-
+[Lecture Slide](https://drive.google.com/file/d/1p0FN8cq5ky5zXhIkN_qtKY5v1DqeTlTQ/view?usp=sharing)
 
 
 ### Lecture Content
@@ -290,7 +288,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
-
+<!--
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/13vU_3zOSGj_Eihj5Ovk6Vibp2a7zHsg-/view?usp=sharing)
