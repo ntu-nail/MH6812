@@ -288,7 +288,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
 - [BLEU (original paper)](https://www.aclweb.org/anthology/P02-1040.pdf)
 
-<!--
+
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
 [Lecture Slide](https://drive.google.com/file/d/13vU_3zOSGj_Eihj5Ovk6Vibp2a7zHsg-/view?usp=sharing)
@@ -310,7 +310,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [Effective Approaches to Attention-based Neural Machine Translation](https://nlp.stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)
 - [Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models](https://arxiv.org/abs/1604.00788)
 
-
+<!--
 ## Week 9: Seq2Seq Variants and Transformer
 
 [Lecture Slide](https://drive.google.com/file/d/15BUJrzwl9UdCioliWbS18A5IW-6iN68X/view?usp=sharing)
