@@ -262,7 +262,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 
 
-## Week 7: Machine translation and Seq2Seg Models
+## Week 7: Machine translation and Seq2Seq Models
 
 [Lecture Slide](https://drive.google.com/file/d/1p0FN8cq5ky5zXhIkN_qtKY5v1DqeTlTQ/view?usp=sharing)
 
@@ -290,6 +290,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 
 ## Week 8: Seq2Seg Models, Attentions, Subwords
+
+### This week, Group A's lecture will be moved to Saturday 10 Jan 2026, 6.30pm at NS-LT8 (together with group B)
 
 [Lecture Slide](https://drive.google.com/file/d/13vU_3zOSGj_Eihj5Ovk6Vibp2a7zHsg-/view?usp=sharing)
 
