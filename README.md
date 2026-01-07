@@ -291,7 +291,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 ## Week 8: Seq2Seg Models, Attentions, Subwords
 
-**Note: This week, Group A's lecture will be moved to Saturday 10 Jan 2026, 6.30pm at NS-LT8 (together with group B). NS-LT8 (N1-02-01) is near Tan Chin Tuan's lecture theater.**
+**Note: Due to unforeseen circumstances, this week’s lecture for group A will be rescheduled to Saturday, 10 January 2026, at 6:30 pm, and will be held at NS-LT8 (together with group B). NS-LT8 (N1-02-01) is located near the Tan Chin Tuan Lecture Theatre.**
 
 [Lecture Slide](https://drive.google.com/file/d/13vU_3zOSGj_Eihj5Ovk6Vibp2a7zHsg-/view?usp=sharing)
 
