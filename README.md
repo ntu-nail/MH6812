@@ -340,7 +340,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [Resurrecting Submodularity in Neural Abstractive Summarization](https://arxiv.org/abs/1911.03014)
 
 
-<!--
+
 ## Week 10: Self-supervised Learning & Pretrained Language Models
 
 [Lecture Slide](https://drive.google.com/file/d/1oWGen2UA0e1ZArSzBgXaEiUA_utVce7N/view?usp=sharing)
@@ -376,7 +376,7 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-
+<!--
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
 Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoMIJADsjvzJE9G/view?usp=sharing). **Deadline: 21 Feb 2025, 11:59 pm**.
