@@ -315,6 +315,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 ## Week 9: Seq2Seq Variants and Transformer
 
+Assignment 2 is out [here](https://docs.google.com/document/d/1y2e7i-n8OLQg0yW9GR9wYWBC81c3E7Z0/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Feb 2026, 11:59 pm**.
+
 [Lecture Slide](https://drive.google.com/file/d/15BUJrzwl9UdCioliWbS18A5IW-6iN68X/view?usp=sharing)
 
 ### Lecture Content
