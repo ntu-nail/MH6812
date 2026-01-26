@@ -315,8 +315,6 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 ## Week 9: Seq2Seq Variants and Transformer
 
-Assignment 2 is out [here](https://docs.google.com/document/d/1y2e7i-n8OLQg0yW9GR9wYWBC81c3E7Z0/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Feb 2026, 11:59 pm**.
-
 [Lecture Slide](https://drive.google.com/file/d/15BUJrzwl9UdCioliWbS18A5IW-6iN68X/view?usp=sharing)
 
 ### Lecture Content
@@ -344,6 +342,8 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1y2e7i-n8OLQg0yW9G
 
 
 ## Week 10: Self-supervised Learning & Pretrained Language Models
+
+Assignment 2 is out [here](https://docs.google.com/document/d/1LS_2tnoEoHx4-1V0StGIDJeaS34poU4A/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Feb 2026, 11:59 pm**.
 
 [Lecture Slide](https://drive.google.com/file/d/1oWGen2UA0e1ZArSzBgXaEiUA_utVce7N/view?usp=sharing)
 
