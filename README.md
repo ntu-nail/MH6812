@@ -345,6 +345,8 @@ Assignment 1 is out [here](https://docs.google.com/document/d/12kfBGy92g7kh4_d6b
 
 Assignment 2 is out [here](https://docs.google.com/document/d/1LS_2tnoEoHx4-1V0StGIDJeaS34poU4A/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true). **Deadline: 17 Feb 2026, 11:59 pm**.
 
+[Final project report instruction](https://docs.google.com/document/d/1fBkuaW6qL15ec_vPxQP2ED8vk3Ct05fu/edit?usp=sharing&ouid=118265590333925180950&rtpof=true&sd=true)
+
 [Lecture Slide](https://drive.google.com/file/d/1oWGen2UA0e1ZArSzBgXaEiUA_utVce7N/view?usp=sharing)
 
 ### Lecture Content
@@ -410,6 +412,5 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 
 [Lecture Slide](https://drive.google.com/file/d/1m5E4eEfpkqyRnc-bHjafQOntNARyI_Nm/view?usp=sharing)
 
-[Final project report instruction](https://drive.google.com/file/d/1-viZjoFrZ1O2ZafpkxW6HY_29DWyMn4d/view?usp=sharing)
 
 -->
