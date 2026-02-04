@@ -380,14 +380,10 @@ Assignment 2 is out [here](https://docs.google.com/document/d/1LS_2tnoEoHx4-1V0S
 - [ELMo paper](https://arxiv.org/abs/1802.05365)
 - [BART paper](https://arxiv.org/abs/1910.13461)
 
-<!--
+
 ## Week 11: Large Pretrained Language Models & Multilingual NLP
 
-Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoMIJADsjvzJE9G/view?usp=sharing). **Deadline: 21 Feb 2025, 11:59 pm**.
-
 [Lecture Slide](https://drive.google.com/file/d/11r6WZxsK6ufjt8wrcAbcAw1OOz8HaWmm/view?usp=sharing)
-
-[Lecture Recording](https://drive.google.com/file/d/1e62jcLlCTcW8QmT9NLDzTyfKqWZVpmiW/view?usp=drive_link)
 
 ### Lecture Content
 
@@ -407,7 +403,7 @@ Assignment 2 is out [here](https://drive.google.com/file/d/1uba8VOCuQ-N8M5-NSsoM
 - [mBART paper](https://arxiv.org/abs/2001.08210)
 - [Pre-train Fine-tune with HF](https://colab.research.google.com/drive/1L_hwnQISoIBrH7W_r83I62hJ4FBlfNsz?usp=sharing)
 
-
+<!--
 ## Week 12: Bias, Robustness, Hallucination, Multimodal NLP & Recap
 
 [Lecture Slide](https://drive.google.com/file/d/1m5E4eEfpkqyRnc-bHjafQOntNARyI_Nm/view?usp=sharing)
